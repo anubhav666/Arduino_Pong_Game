@@ -10,4 +10,3 @@
 </ul>
 
 ## For more reference:
-# Arduino_Pong_
