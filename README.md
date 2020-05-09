@@ -14,4 +14,5 @@ Download/Clone this Repository in an accessible location<br>
 Choose your port where you've plugged your Arduino UNO<br>
 Check if the baud rate is set to 9600 bps(for serial monitor)<br>
 Select the board to your desired Arduino(UNO for this project)<br>
+
 ## For more reference:
