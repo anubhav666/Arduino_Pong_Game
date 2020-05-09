@@ -8,6 +8,7 @@
 ## Libraries Required
 1.Timer.h<br>
 2.LedControl.h<br>
+
 (Install these libraries from this Repository)
 
 ## Installing libraries
@@ -17,7 +18,6 @@
   <li>Select the the library.zip files</li>
   </ol>
     
-
 ## Default Pin Configurations:
 <ul>
   <li>7 - DIN</li>
