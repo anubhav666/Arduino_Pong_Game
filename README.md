@@ -1,5 +1,5 @@
 # Arduino_Pong_Game
-Download Arduino IDE from https://arduino.cc<br>
+Download Arduino IDE from https://www.arduino.cc/download_handler.php?f=/arduino-1.8.12-windows.exe<br>
 Install Arduino IDE<br>
 Download/Clone this Repository in an accessible location<br>
 ## Libraries Required
