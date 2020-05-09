@@ -3,13 +3,16 @@
 <li>Download Arduino IDE from https://www.arduino.cc/download_handler.php?f=/arduino-1.8.12-windows.exe</li>
 </ul>
 <br>
+
 ![image](https://user-images.githubusercontent.com/64885833/81465842-b4357b00-91ea-11ea-82df-b7f108a08270.png)
+
 <br>
 <ul>
 <li>Install Arduino IDE</li>
 <li>Download/Clone this Repository in an accessible location</li>
 </ul>
 <br><br><br>
+
 ![image](https://user-images.githubusercontent.com/64885833/81465915-48074700-91eb-11ea-866f-2a3081e49d02.png)
 
 
