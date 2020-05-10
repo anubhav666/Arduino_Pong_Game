@@ -45,5 +45,9 @@
 →Choose your port where you've plugged your Arduino UNO<br>
 →Check if the baud rate is set to 9600 bps(for serial monitor)<br>
 →Select the board to your desired Arduino(UNO for this project)<br>
+→You can also Code/Upload Online using Online Code Editor(IDE) at https://create.arduino.cc/editor
+![image](https://user-images.githubusercontent.com/64885833/81501219-b84dbf80-92f4-11ea-9e56-ee48222918ed.png)
+
+
 
 ## For more reference:
